@@ -1,10 +1,10 @@
 # typebatis
 
-<img src="./assets/logo.png">
+<img src="https://raw.githubusercontent.com/dc5v/typebatis/refs/heads/main/assets/logo.png">
 
-Combined TypeScript with MyBatis, and the result is... drumroll... 
+Combined `TypeScript` + `MyBatis`, and the result is... drumroll... 
 
-`Typebatis!`
+Typebatis ✨
 
 ---
 
